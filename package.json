@@ -2,8 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fernandojcastellanos.github.io/Personal-Website/",
-  "basePath": "/Personal-Website",
+  "homepage": "fernandojc.com",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
