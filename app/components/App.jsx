@@ -35,6 +35,9 @@ const App = () => {
         <div className='body flex-col justify-center'>
           <HR1 />
           <BlockIntro />
+          <p>
+            choose dev or contact or artist
+          </p>
           <BlockNavBar />
           {navbarActive === 1 && <BlockDeveloper />}
           {navbarActive === 2 && <BlockContact />}
