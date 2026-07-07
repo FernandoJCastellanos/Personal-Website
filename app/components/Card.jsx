@@ -1,5 +1,6 @@
 import Image from "next/image";
 import arrow from "../assets/play-solid.svg";
+import ShowMore from "./ShowMore";
 
 export const Card = ({ 
   title, 
@@ -53,7 +54,7 @@ export const Card = ({
         </button>
 
         <div className={`overflow-hidden ${isVisible ? 'show' : 'hide'}`}>
-          <ShowMore techUsed={techUsed} Repo={Repo} Demo={Demo} />
+          <ShowMore techUsed={techUsed} Repo={Repo} Demo={Demo}/>
         </div>
       </div>
     </div>
