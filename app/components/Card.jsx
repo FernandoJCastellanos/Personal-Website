@@ -15,7 +15,7 @@ export const Card = ({
 }) => {
 
   return (
-    <div className="border border-2 border-white rounded-md">
+    <div className="border-2 border-white rounded-md">
       <div className="flex flex-col w-full transition">
         <p className="text-center my-8 text-lg">{title}</p>
 
