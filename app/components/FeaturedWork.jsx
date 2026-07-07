@@ -73,14 +73,14 @@ const demo1 ="https://fernandojcastellanos.github.io/Personal-Art-Website/"
 
 // Feature 2
 const title2="Blogkerting"
-const img2 = "https://i.imgur.com/8zVqkjd.png"
+const img2 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/app/assets/img/edsblog.png"
 const video2 = "https://www.youtube.com/embed/semdIH5eGeQ?si=C1pGzT7mFERvJb2u"
 const techUsed2= "Wordpress, CTI, ACF, GraphQl, Apollo, NextJS"
 const GitHub2="https://github.com/FernandoJCastellanos/Eds-Blog"
 
 // Feature 3
 const title3="Buy and Sell money!"
-const img3 = homesellerImg
+const img3 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/app/assets/img/homeSeller.png"
 const video3 = "https://www.youtube.com/embed/8SGU9MMV-4U?si=tUUAvd63KOgpTr3I"
 const techUsed3= "Wordpress, CTI, ACF, GraphQl, Apollo, NextJS"
 const GitHub3="https://github.com/FernandoJCastellanos/Homes-App"
@@ -92,7 +92,6 @@ const GitHub3="https://github.com/FernandoJCastellanos/Homes-App"
             Featured Work
           </p>
         </div>
-        <img src= {personalImg} ></img>
         <div className="grid sm:grid-cols-3 grid-cols-1 gap-8 mx-12">
           <div>
           <Card title={title1} img={img1} video={video1} techUsed={techUsed1} GitHub={GitHub1} Demo={demo1}

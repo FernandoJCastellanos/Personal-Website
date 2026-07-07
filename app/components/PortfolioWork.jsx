@@ -34,7 +34,7 @@ const PortfolioWork = () => {
   };
   // Portfolio 16  // Portfolio 16  // Portfolio 16  // Portfolio 16  // Portfolio 16  // Portfolio 16  // Portfolio 16  // Portfolio 16
 const title16="Blogkerting"
-const img16 = "https://firebasestorage.googleapis.com/v0/b/freelancewebsite-36de8.appspot.com/o/edsblog.png?alt=media&token=863250aa-0427-4751-bddf-100c656c8da4"
+const img16 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/app/assets/img/edsblog.png"
 const video16 = "https://www.youtube.com/embed/semdIH5eGeQ?si=C1pGzT7mFERvJb2u"
 const techUsed16= "Wordpress, CTI, ACF, GraphQl, Apollo, NextJS"
 const accomplishements16="Good Practice"
@@ -56,7 +56,7 @@ const repo16="https://github.com/FernandoJCastellanos/Eds-Blog"
   };
   // Portfolio 15  // Portfolio 15  // Portfolio 15  // Portfolio 15  // Portfolio 15  // Portfolio 15  // Portfolio 15  // Portfolio 15
 const title15="Buy and Sell money!"
-const img15 = "https://firebasestorage.googleapis.com/v0/b/freelancewebsite-36de8.appspot.com/o/homesapp.jpg?alt=media&token=d96cc806-f4db-4ecb-966d-26377b9d2199"
+const img15 = "https://github.com/FernandoJCastellanos/Personal-Website/blob/master/app/assets/img/homeSeller.png"
 const video15 = "https://www.youtube.com/embed/8SGU9MMV-4U?si=tUUAvd63KOgpTr3I"
 const techUsed15= "Wordpress, CTI, ACF, GraphQl, Apollo, NextJS"
 const accomplishements15="Learned how to properly work with Wordpress"
@@ -77,7 +77,7 @@ const repo15="https://github.com/FernandoJCastellanos/Homes-App"
   };
   // Portfolio 14  // Portfolio 14  // Portfolio 14  // Portfolio 14  // Portfolio 14  // Portfolio 14  // Portfolio 14  // Portfolio 14
 const title14="Tindog Wordpress Edition!"
-const img14 = "https://firebasestorage.googleapis.com/v0/b/frontend-development-9534d.appspot.com/o/Tindog.png?alt=media&token=79260380-1974-4b81-ba7d-45e6563afa62"
+const img14 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/app/assets/img/Tindog.png"
 const video14 = "https://www.youtube.com/embed/AkiOaqVMAoc?si=4jdHvbDV2cG1UKDt"
 const techUsed14= "Wordpress, Elementor, REST-API, NextJS"
 const accomplishements14="Worked with Wordpress elementor and REST-API"
