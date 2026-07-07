@@ -14,7 +14,7 @@ const EpisodesComponent = () => {
 // Episode 4
 const imgsrc4 = "https://firebasestorage.googleapis.com/v0/b/personal-website-27d17.appspot.com/o/Personal%20Site%2FEpisodesPics%2FForkOnTheRoadPic.png?alt=media&token=17b5f0b5-6c9e-4861-9ac4-3a1d6b22e6ad"
 const videosrc4 = "https://www.youtube.com/embed/BVkfJsYx2sE"
-const lore4 = "The Soruce"
+const lore4 = "The Source"
 // Episode 3
 const imgsrc3 = "https://firebasestorage.googleapis.com/v0/b/personal-website-27d17.appspot.com/o/Personal%20Site%2FEpisodesPics%2FFirePic.png?alt=media&token=19fb963b-f193-4add-a00d-b4a89606153f"
 const videosrc3 = "https://www.youtube.com/embed/uRuaQCnZC5Q"

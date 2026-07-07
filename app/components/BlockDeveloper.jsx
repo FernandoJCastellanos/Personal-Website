@@ -36,6 +36,9 @@ const BlockDeveloper = () => {
             React
           </li>
           <li>
+            Solidity
+          </li>
+          <li>
             React Native
           </li>
           <li>
