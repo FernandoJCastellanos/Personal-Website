@@ -34,7 +34,7 @@ const PortfolioWork = () => {
   };
   // Portfolio 16  // Portfolio 16  // Portfolio 16  // Portfolio 16  // Portfolio 16  // Portfolio 16  // Portfolio 16  // Portfolio 16
 const title16="Blogkerting"
-const img16 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/app/assets/img/edsblog.png"
+const img16 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/edsblog.png"
 const video16 = "https://www.youtube.com/embed/semdIH5eGeQ?si=C1pGzT7mFERvJb2u"
 const techUsed16= "Wordpress, CTI, ACF, GraphQl, Apollo, NextJS"
 const accomplishements16="Good Practice"
@@ -56,7 +56,7 @@ const repo16="https://github.com/FernandoJCastellanos/Eds-Blog"
   };
   // Portfolio 15  // Portfolio 15  // Portfolio 15  // Portfolio 15  // Portfolio 15  // Portfolio 15  // Portfolio 15  // Portfolio 15
 const title15="Buy and Sell money!"
-const img15 = "https://github.com/FernandoJCastellanos/Personal-Website/blob/master/app/assets/img/homeSeller.png"
+const img15 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/homeSeller.png"
 const video15 = "https://www.youtube.com/embed/8SGU9MMV-4U?si=tUUAvd63KOgpTr3I"
 const techUsed15= "Wordpress, CTI, ACF, GraphQl, Apollo, NextJS"
 const accomplishements15="Learned how to properly work with Wordpress"
@@ -77,7 +77,7 @@ const repo15="https://github.com/FernandoJCastellanos/Homes-App"
   };
   // Portfolio 14  // Portfolio 14  // Portfolio 14  // Portfolio 14  // Portfolio 14  // Portfolio 14  // Portfolio 14  // Portfolio 14
 const title14="Tindog Wordpress Edition!"
-const img14 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/app/assets/img/Tindog.png"
+const img14 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/Tindog.png"
 const video14 = "https://www.youtube.com/embed/AkiOaqVMAoc?si=4jdHvbDV2cG1UKDt"
 const techUsed14= "Wordpress, Elementor, REST-API, NextJS"
 const accomplishements14="Worked with Wordpress elementor and REST-API"
@@ -97,7 +97,7 @@ const repo14="https://github.com/FernandoJCastellanos/WP-Headless-Tindog"
   };
   // Portfolio 13  // Portfolio 13  // Portfolio 13  // Portfolio 13  // Portfolio 13  // Portfolio 13  // Portfolio 13  // Portfolio 13
 const title13="Twerking for a living"
-const img13 = "https://firebasestorage.googleapis.com/v0/b/freelancewebsite-36de8.appspot.com/o/onlyfans-reactnative.png?alt=media&token=725580fc-13f2-45a9-974d-d0650ccd70c9"
+const img13 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/onlyfans.png"
 const video13 = "https://www.youtube.com/embed/MCgKAshyd_k?si=gl2D4fPZjI93J4RX"
 const techUsed13= "Fullstack- React Native and AWS Amplify"
 const accomplishements13="Practiced some React Native, and learn some AWS Amplify"
@@ -117,7 +117,7 @@ const repo13="https://github.com/FernandoJCastellanos/Onlyfans-App-Fullstack"
   };
   // Portfolio 12  // Portfolio 12  // Portfolio 212  // Portfolio 12  // Portfolio 12  // Portfolio 12  // Portfolio 12  // Portfolio 12
 const title12="What are thoooose!!"
-const img12 = "https://firebasestorage.googleapis.com/v0/b/freelancewebsite-36de8.appspot.com/o/nike-reactnative.png?alt=media&token=ad69087b-8971-423e-ac42-d6207a1978f3"
+const img12 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/whatarethose.png"
 const video12 = "https://www.youtube.com/embed/YAuSJl5kj6s?si=1Gz3k4vvg4M30WNj"
 const techUsed12= "FullStack- React Native and MongoDB"
 const accomplishements12="Getting comfortable with FullStack workflows"
@@ -138,7 +138,7 @@ const repo12="https://github.com/FernandoJCastellanos/Nike-E-Commerce-app"
   };
   // Portfolio 11  // Portfolio 11  // Portfolio 11  // Portfolio 11  // Portfolio 11  // Portfolio 11  // Portfolio 11  // Portfolio 11
 const title11="Keeping up with the Crypto Bros!"
-const img11 = "https://firebasestorage.googleapis.com/v0/b/frontend-development-9534d.appspot.com/o/cryptoverse%20foto.png?alt=media&token=c506e6a9-4c73-45f2-bac0-4594be589912"
+const img11 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/cryptowebsite.png"
 const video11 = "https://www.youtube.com/embed/KtX6ak9g2Hg"
 const techUsed11= "React, Redux and Typescript"
 const accomplishements11="Practiced some API data pulling with Redux"
@@ -159,7 +159,7 @@ const demo11 ="https://fernandojcastellanos.github.io/CryptoVerse/"
   };
   // Portfolio 10  // Portfolio 10  // Portfolio 210  // Portfolio 10  // Portfolio 10  // Portfolio 10  // Portfolio 10  // Portfolio 10
 const title10="We are the Mad Scientist. You are the chef."
-const img10 = "https://firebasestorage.googleapis.com/v0/b/frontend-development-9534d.appspot.com/o/recipe%20app.png?alt=media&token=e628fe15-5fc7-4531-9230-47f04fac1578"
+const img10 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/culinarywebsite.png"
 const video10 = "https://www.youtube.com/embed/cnwgg7GMEhA"
 const techUsed10= "React, Typescript, SASS"
 const accomplishements10="Finally learned how to turn the dang lights off these website"
@@ -179,7 +179,7 @@ const demo10="https://fernandojcastellanos.github.io/Recipe-Site/"
   };
   // Portfolio 9  // Portfolio 9  // Portfolio 29  // Portfolio 9  // Portfolio 9  // Portfolio 9  // Portfolio 9  // Portfolio 9
 const title9="Movies. Popcorn. Action!"
-const img9 = "https://firebasestorage.googleapis.com/v0/b/frontend-development-9534d.appspot.com/o/React%20Native%20Movie%20App%20photo.png?alt=media&token=66b175f4-cafc-4e2d-8920-bd891740a3ab"
+const img9 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/imdbmobilesite.png"
 const video9 = "https://www.youtube.com/embed/0emdp0ivIRQ"
 const techUsed9= "React Native"
 const accomplishements9="My first Mobile App"
@@ -198,7 +198,7 @@ const repo9="https://github.com/FernandoJCastellanos/OMDBapp--ReactNative"
   };
   // Portfolio 8  // Portfolio 8  // Portfolio 28  // Portfolio 8  // Portfolio 8  // Portfolio 8  // Portfolio 8  // Portfolio 8
 const title8="Simple. We Build. We Sell."
-const img8 = "https://firebasestorage.googleapis.com/v0/b/frontend-development-9534d.appspot.com/o/React%20E-Commerce%20Website%20photo.png?alt=media&token=37a65aa4-1b11-4b1f-b9cd-621e301e9a3f"
+const img8 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/shoestore.png"
 const video8 = "https://www.youtube.com/embed/1dUh0SFUDcI"
 const techUsed8= "React"
 const accomplishements8="My first website built with React"
@@ -219,7 +219,7 @@ const demo8="https://fernandojcastellanos.github.io/E-Commerce-Site---React/"
   };
   // Portfolio 7  // Portfolio 7  // Portfolio 27  // Portfolio 7  // Portfolio 7  // Portfolio 7  // Portfolio 7  // Portfolio 7
 const title7="Old Developer Site"
-const img7 = "https://firebasestorage.googleapis.com/v0/b/frontend-development-9534d.appspot.com/o/old-website-developer.png?alt=media&token=401eb0a3-8a4e-4ebd-9c06-a5061de846f9"
+const img7 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/oldwebsite.png"
 const video7 = "https://www.youtube.com/embed/Ppm6D2ZvGcc"
 const techUsed7= "HTML, CSS, JavaScript"
 const accomplishements7="Website to show people how cool I am."
@@ -243,7 +243,7 @@ const demo7="https://fernandojcastellanos.github.io/Personal-Developer-Website/"
   };
   // Portfolio 6  // Portfolio 6  // Portfolio 26  // Portfolio 6  // Portfolio 6  // Portfolio 6  // Portfolio 6  // Portfolio 6
 const title6="To the Mooooon!!!!"
-const img6 = "https://firebasestorage.googleapis.com/v0/b/frontend-development-9534d.appspot.com/o/space.png?alt=media&token=6b166d8a-5c18-40ee-92d0-64f074315fef"
+const img6 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/space.png"
 const video6 = "https://www.youtube.com/embed/Jh7JkAkKp5g"
 const techUsed6= "HTML, CSS, JavaScript"
 const accomplishements6="Learned about accessibility and practiced Javascript"
@@ -265,7 +265,7 @@ const demo6="https://fernandojcastellanos.github.io/Space-Tourism-Website/"
   };
   // Portfolio 5  // Portfolio 5  // Portfolio 25  // Portfolio 5  // Portfolio 5  // Portfolio 5  // Portfolio 5  // Portfolio 5
 const title5="We set the fashion"
-const img5 = "https://firebasestorage.googleapis.com/v0/b/frontend-development-9534d.appspot.com/o/base.png?alt=media&token=ac209c86-49a9-4a0f-9f7a-202a7710085a"
+const img5 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/fashionwebsite.png"
 const video5 = "https://www.youtube.com/embed/1aehupwY3J8"
 const techUsed5= "HTML, CSS, JavaScript"
 const accomplishements5="Landing like an ODST"
@@ -286,7 +286,7 @@ const demo5="https://fernandojcastellanos.github.io/base-apparel-landing-page/"
   };
   // Portfolio 4  // Portfolio 4  // Portfolio 24  // Portfolio 4  // Portfolio 4  // Portfolio 4  // Portfolio 4  // Portfolio 4
 const title4="The grass is greener on our Side"
-const img4 = "https://firebasestorage.googleapis.com/v0/b/frontend-development-9534d.appspot.com/o/sunnyside.png?alt=media&token=7d185c6c-ec31-428f-b890-1569628e6d6a"
+const img4 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/sunnyside.png"
 const video4 = "https://www.youtube.com/embed/PkBH0ch-fIE"
 const techUsed4= "HTML, CSS, JavaScript"
 const accomplishements4="Build some cool looking frontpage"
@@ -307,7 +307,7 @@ const demo4="https://fernandojcastellanos.github.io/SunnySide-Ad-Agency-/"
   };
   // Portfolio 3  // Portfolio 3  // Portfolio 23  // Portfolio 3  // Portfolio 3  // Portfolio 3  // Portfolio 3  // Portfolio 3
 const title3="My dream site!"
-const img3 = "https://firebasestorage.googleapis.com/v0/b/frontend-development-9534d.appspot.com/o/Personal.jpg?alt=media&token=3a109d32-f826-4c15-91ce-160e9f8c8c9d"
+const img3 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/personal.jpg"
 const video3 = "https://www.youtube.com/embed/eirOLkjPSoc"
 const techUsed3= "HTML, CSS, JavaScript"
 const accomplishements3="Built the website I've always wanted"
@@ -328,7 +328,7 @@ const demo3 ="https://fernandojcastellanos.github.io/Personal-Art-Website/"
   };
   // Portfolio 2  // Portfolio 2  // Portfolio 2  // Portfolio 2  // Portfolio 2  // Portfolio 2  // Portfolio 2  // Portfolio 2
 const title2="We Drum to the Beat of our Hearts"
-const img2 = "https://firebasestorage.googleapis.com/v0/b/frontend-development-9534d.appspot.com/o/Drumkit.png?alt=media&token=fd0a912e-74b7-4182-bbfe-1bfe3d2d7caa"
+const img2 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/Drumkit.png"
 const video2 = "https://www.youtube.com/embed/VXNTfJcLVbU"
 const techUsed2= "HTML, CSS, JavaScript"
 const accomplishements2="Practicing some Vanilla JS"
@@ -348,7 +348,7 @@ const demo2="https://fernandojcastellanos.github.io/Drum-Kit/"
   };
   // Portfolio 1
 const title1="Dog chill Dog world"
-const img1 = "https://firebasestorage.googleapis.com/v0/b/frontend-development-9534d.appspot.com/o/Tindog.png?alt=media&token=79260380-1974-4b81-ba7d-45e6563afa62"
+const img1 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/Tindog.png"
 const video1 = "https://www.youtube.com/embed/xQx6QH6_z9M"
 const techUsed1= "HTML, CSS, JavaScript"
 const accomplishements1="My first website built in Vanilla"
