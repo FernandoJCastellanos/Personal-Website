@@ -33,7 +33,7 @@ export const Card = ({
           />
 
           {/* Thumbnail Image */}
-          <Image 
+          <img 
             className={`w-full h-full object-cover rounded-md z-10 ${videoPlayer ? 'hidden' : 'block'}`}
             src={img} 
             alt={title}
