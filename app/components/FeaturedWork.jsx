@@ -73,7 +73,7 @@ const demo1 ="https://fernandojcastellanos.github.io/Personal-Art-Website/"
 
 // Feature 2
 const title2="Blogkerting"
-const img2 = "https://imgur.com/a/QYwGqzP"
+const img2 = "https://i.imgur.com/8zVqkjd.png"
 const video2 = "https://www.youtube.com/embed/semdIH5eGeQ?si=C1pGzT7mFERvJb2u"
 const techUsed2= "Wordpress, CTI, ACF, GraphQl, Apollo, NextJS"
 const GitHub2="https://github.com/FernandoJCastellanos/Eds-Blog"
