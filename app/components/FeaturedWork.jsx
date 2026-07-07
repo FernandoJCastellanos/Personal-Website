@@ -11,9 +11,6 @@ import React, {useState} from "react";
   import arrow from "../assets/play-solid.svg"
 import { Card } from "./Card";
   
-import personalImg from "@/public/personal.jpg";
-import edsblogImg from "../assets/img/edsblog.png";
-import homesellerImg from "../assets/img/homeSeller.png";
   
   
 const FeaturedWork = () => {
