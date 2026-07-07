@@ -17,7 +17,7 @@ import { Card } from "./Card";
   
   import personal from "@/public/img/personal.jpg"
   import edsblog from "@/public/img/edsblog.png"
-  import homeseller from "@/public/img/homeseller.jpg"
+  import homeseller from "@/public/img/homeseller.png"
   
   
   
