@@ -37,7 +37,6 @@ export const Card = ({
             className={`w-full h-full object-cover rounded-md z-10 ${videoPlayer ? 'hidden' : 'block'}`}
             src={img} 
             alt={title}
-            priority={false}
           />
 
           {/* Video */}
