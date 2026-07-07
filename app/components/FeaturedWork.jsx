@@ -15,9 +15,9 @@ import ScrollTrigger from 'gsap/ScrollTrigger';
 import { Card } from "./Card";
   
   
-  
-  
-  
+  import personal from "@/public/img/personal.jpg"
+  import edsblog from "@/public/img/edsblog.png"
+  import homeseller from "@/public/img/homeseller.jpg"
   
   
   
@@ -93,7 +93,7 @@ const FeaturedWork = () => {
 // Feature 1
 
 const title1="Own Personal Art Gallery"
-const img1 = "https://firebasestorage.googleapis.com/v0/b/frontend-development-9534d.appspot.com/o/Personal.jpg?alt=media&token=3a109d32-f826-4c15-91ce-160e9f8c8c9d"
+const img1 = personal
 const video1 = "https://www.youtube.com/embed/eirOLkjPSoc"
 const techUsed1= "HTML, CSS, JavaScript"
 const GitHub1="https://github.com/FernandoJCastellanos/Personal-Art-Website"
@@ -101,14 +101,14 @@ const demo1 ="https://fernandojcastellanos.github.io/Personal-Art-Website/"
 
 // Feature 2
 const title2="Blogkerting"
-const img2 = "https://firebasestorage.googleapis.com/v0/b/freelancewebsite-36de8.appspot.com/o/edsblog.png?alt=media&token=863250aa-0427-4751-bddf-100c656c8da4"
+const img2 = edsblog
 const video2 = "https://www.youtube.com/embed/semdIH5eGeQ?si=C1pGzT7mFERvJb2u"
 const techUsed2= "Wordpress, CTI, ACF, GraphQl, Apollo, NextJS"
 const GitHub2="https://github.com/FernandoJCastellanos/Eds-Blog"
 
 // Feature 3
 const title3="Buy and Sell money!"
-const img3 = "https://firebasestorage.googleapis.com/v0/b/freelancewebsite-36de8.appspot.com/o/homesapp.jpg?alt=media&token=d96cc806-f4db-4ecb-966d-26377b9d2199"
+const img3 = homeseller
 const video3 = "https://www.youtube.com/embed/8SGU9MMV-4U?si=tUUAvd63KOgpTr3I"
 const techUsed3= "Wordpress, CTI, ACF, GraphQl, Apollo, NextJS"
 const GitHub3="https://github.com/FernandoJCastellanos/Homes-App"
