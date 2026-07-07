@@ -14,9 +14,9 @@ import ScrollTrigger from 'gsap/ScrollTrigger';
   import arrow from "../assets/play-solid.svg"
 import { Card } from "./Card";
   
-import personal from "../assets/img/personal.jpg"
-import edsblog from "../assets/img/edsblog.png"
-import homeseller from "../assets/img/homeseller.png"
+import personal from "@/app/assets/img/personal.jpg"
+// import edsblog from "../assets/img/edsblog.png"
+// import homeseller from "../assets/img/homeseller.png"
 
   
   
