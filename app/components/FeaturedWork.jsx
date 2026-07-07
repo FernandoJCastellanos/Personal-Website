@@ -92,6 +92,7 @@ const GitHub3="https://github.com/FernandoJCastellanos/Homes-App"
             Featured Work
           </p>
         </div>
+        <img src= {personalImg} ></img>
         <div className="grid sm:grid-cols-3 grid-cols-1 gap-8 mx-12">
           <div>
           <Card title={title1} img={img1} video={video1} techUsed={techUsed1} GitHub={GitHub1} Demo={demo1}
