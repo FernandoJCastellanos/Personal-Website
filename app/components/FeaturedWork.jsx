@@ -89,7 +89,7 @@ const FeaturedWork = () => {
 // Feature 1
 
 const title1="Own Personal Art Gallery"
-const img1 = "/img/personal.jpg"
+const img1 = "/img/vercel.svg"
 const video1 = "https://www.youtube.com/embed/eirOLkjPSoc"
 const techUsed1= "HTML, CSS, JavaScript"
 const GitHub1="https://github.com/FernandoJCastellanos/Personal-Art-Website"
