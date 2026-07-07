@@ -1,5 +1,5 @@
 import Image from "next/image";
-import arrow from "../../assets/play-solid.svg";
+import arrow from "../assets/play-solid.svg";
 
 export const Card = ({ 
   title, 
