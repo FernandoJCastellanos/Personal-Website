@@ -15,9 +15,9 @@ import ScrollTrigger from 'gsap/ScrollTrigger';
 import { Card } from "./Card";
   
   
-  import personal from "@/public/img/personal.jpg"
-  import edsblog from "@/public/img/edsblog.png"
-  import homeseller from "@/public/img/homeseller.png"
+  import personal from "@/app/assets/img/personal.jpg"
+  import edsblog from "@/app/assets/img/edsblog.png"
+  import homeseller from "@/app/assets/img/homeseller.png"
   
   
   
