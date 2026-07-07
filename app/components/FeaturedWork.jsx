@@ -11,7 +11,7 @@ import React, {useState} from "react";
   import arrow from "../assets/play-solid.svg"
 import { Card } from "./Card";
   
-import personalImg from "../assets/img/Personal.jpg";
+import personalImg from "../assets/Personal.jpg";
 import edsblogImg from "../assets/img/edsblog.png";
 import homesellerImg from "../assets/img/homeSeller.png";
   
