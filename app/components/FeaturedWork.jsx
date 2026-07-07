@@ -87,7 +87,7 @@ const FeaturedWork = () => {
 // Feature 1
 
 const title1="Own Personal Art Gallery"
-const img1 = "../assets/img/Personal.jpg"
+const img1 = "app/assets/img/Personal.jpg"
 const video1 = "https://www.youtube.com/embed/eirOLkjPSoc"
 const techUsed1= "HTML, CSS, JavaScript"
 const GitHub1="https://github.com/FernandoJCastellanos/Personal-Art-Website"
@@ -95,14 +95,14 @@ const demo1 ="https://fernandojcastellanos.github.io/Personal-Art-Website/"
 
 // Feature 2
 const title2="Blogkerting"
-const img2 = "../assets/img/edsblog.png"
+const img2 = "app/assets/img/Personal.jpg"
 const video2 = "https://www.youtube.com/embed/semdIH5eGeQ?si=C1pGzT7mFERvJb2u"
 const techUsed2= "Wordpress, CTI, ACF, GraphQl, Apollo, NextJS"
 const GitHub2="https://github.com/FernandoJCastellanos/Eds-Blog"
 
 // Feature 3
 const title3="Buy and Sell money!"
-const img3 = "../assets/img/homeseller.png"
+const img3 = "app/assets/img/Personal.jpg"
 const video3 = "https://www.youtube.com/embed/8SGU9MMV-4U?si=tUUAvd63KOgpTr3I"
 const techUsed3= "Wordpress, CTI, ACF, GraphQl, Apollo, NextJS"
 const GitHub3="https://github.com/FernandoJCastellanos/Homes-App"
