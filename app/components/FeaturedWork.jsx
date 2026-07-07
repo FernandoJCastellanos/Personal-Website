@@ -14,8 +14,9 @@ import ScrollTrigger from 'gsap/ScrollTrigger';
   import arrow from "../assets/play-solid.svg"
 import { Card } from "./Card";
   
-  
-
+  import personal from "../assets/img/personal.jpg"
+  import edsblog from "../assets/img/edsblog.png"
+  import homeseller from "../assets/img/homeseller.png"
   
   
 const FeaturedWork = () => {
@@ -90,7 +91,7 @@ const FeaturedWork = () => {
 // Feature 1
 
 const title1="Own Personal Art Gallery"
-const img1 = "../assets/img/personal.jpg"
+const img1 = personal
 const video1 = "https://www.youtube.com/embed/eirOLkjPSoc"
 const techUsed1= "HTML, CSS, JavaScript"
 const GitHub1="https://github.com/FernandoJCastellanos/Personal-Art-Website"

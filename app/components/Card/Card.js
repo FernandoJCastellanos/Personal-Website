@@ -15,7 +15,7 @@ export const Card = ({title, toggleVideo, videoPlayer, img, video, toggleVisibil
                 </p>
                 <div className=" w-[100%] relative flex justify-center items-center" onClick={toggleVideo}>
                     <Image className={`absolute w-[15%] h-[15%] z-20 ${videoPlayer ? 'hidden' : 'visible'}`} src={arrow} alt="arrow" width={1000} height={1000} />
-                    <img className={`absolute w-[100%] h-[100%] object-cover rounded-md z-10 ${videoPlayer ? 'hidden' : 'visible'}`} alt="VideoImage" src={img} />
+                    <Image className={`absolute w-[100%] h-[100%] object-cover rounded-md z-10 ${videoPlayer ? 'hidden' : 'visible'}`} alt="VideoImage" src={img} />
                     <iframe className={`h-[300px] w-[100%] `}  width="100%" height="100%" src={video} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
                 </div>
                 <button className="showmore-button mx-auto my-4" onClick={toggleVisibility}>Show More</button>
