@@ -82,7 +82,7 @@ const BlockMotionDesigner = () => {
 
 
       {/* navbar Singles, Episodes */}
-      <div className='motion-nav-container'>
+      {/* <div className='motion-nav-container'>
         <div className={`motion-nav-bar ${motionbar === 1 ? "motion-nav-bar-single" : "motion-nav-bar-episode"}`}></div>
         <div className='motion-nav-item text-lg' onClick={moveToSingle}>
           Singles
@@ -93,7 +93,7 @@ const BlockMotionDesigner = () => {
       </div>
       <div className='w-[100%]'>
         {motionbar === 1 ? <SinglesComponent /> : <EpisodesComponent />}
-      </div>
+      </div> */}
     </div>
   )
 }

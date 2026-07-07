@@ -99,7 +99,7 @@ const repo14="https://github.com/FernandoJCastellanos/WP-Headless-Tindog"
 const title13="Twerking for a living"
 const img13 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/onlyfans.png"
 const video13 = "https://www.youtube.com/embed/MCgKAshyd_k?si=gl2D4fPZjI93J4RX"
-const techUsed13= "Fullstack- React Native and AWS Amplify"
+const techUsed13= "Fullstack- React Native and AWS S3 Bucket"
 const accomplishements13="Practiced some React Native, and learn some AWS Amplify"
 const repo13="https://github.com/FernandoJCastellanos/Onlyfans-App-Fullstack"
 
