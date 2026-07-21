@@ -22,6 +22,27 @@ import { Card } from "./Card";
 const PortfolioWork = () => {
 
 
+  // Portfolio Box 1 
+  const [videoPlayer17, setVideoPlayer17] = useState(false);
+  const toggleVideo17 = () => {
+    setVideoPlayer17(!videoPlayer17)
+  }
+  // Button
+  const [isVisible17, setIsVisible17] = useState(false);
+  const toggleVisibility17 = () => {
+    setIsVisible17(!isVisible17);
+  };
+    // Portfolio 17
+  const title17="Dog chill Dog world"
+  const img17 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/Tindog.png"
+  const video17 = "https://www.youtube.com/embed/xQx6QH6_z9M"
+  const techUsed17= "HTML, CSS, JavaScript"
+  const accomplishements17="My first website built in Vanilla"
+  const repo17="https://github.com/FernandoJCastellanos/Tindog"
+  const demo17="https://fernandojcastellanos.github.io/Tindog/"
+
+
+
   // Portfolio Box 16 
   const [videoPlayer16, setVideoPlayer16] = useState(false);
   const toggleVideo16 = () => {
