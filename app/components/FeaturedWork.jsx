@@ -69,18 +69,22 @@ const GitHub1="https://github.com/FernandoJCastellanos/Personal-Art-Website"
 const demo1 ="https://fernandojcastellanos.github.io/Personal-Art-Website/"
 
 // Feature 2
-const title2="Blogkerting"
-const img2 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/edsblog.png"
-const video2 = "https://www.youtube.com/embed/semdIH5eGeQ?si=C1pGzT7mFERvJb2u"
-const techUsed2= "Wordpress, CTI, ACF, GraphQl, Apollo, NextJS"
-const GitHub2="https://github.com/FernandoJCastellanos/Eds-Blog"
+const title2="GuildBank DAPP"
+const img2 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/guildbank%20pic.png"
+const video2 = "https://www.youtube.com/watch?v=9IMwRIei-Xc"
+const techUsed2= "Next.js, Solidity, Typescript, Tailwind"
+const GitHub2="https://github.com/PrivatePepega/GuildBank"
+const demo2 ="www.guildbank.biz"
+
 
 // Feature 3
-const title3="Buy and Sell money!"
-const img3 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/homeSeller.png"
-const video3 = "https://www.youtube.com/embed/8SGU9MMV-4U?si=tUUAvd63KOgpTr3I"
-const techUsed3= "Wordpress, CTI, ACF, GraphQl, Apollo, NextJS"
-const GitHub3="https://github.com/FernandoJCastellanos/Homes-App"
+const title3="GuildBank Windows App"
+const img3 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/guildbank%20app%20pic.png"
+const video3 = "https://www.youtube.com/watch?v=9IMwRIei-Xc"
+const techUsed3= "Electron Vite Node.js Tailwind"
+const GitHub3="https://github.com/PrivatePepega/GuildBank-App"
+const demo3 ="https://github.com/PrivatePepega/GuildBank-App"
+
 
     return (
     <div id="featured-work" className="w-[100%] my-12">
@@ -96,12 +100,12 @@ const GitHub3="https://github.com/FernandoJCastellanos/Homes-App"
             />
           </div>
           <div>
-            <Card title={title2} img={img2} video={video2} techUsed={techUsed2} GitHub={GitHub2}
+            <Card title={title2} img={img2} video={video2} techUsed={techUsed2} GitHub={GitHub2} Demo={demo2}
                 toggleVideo={toggleVideo2} videoPlayer={videoPlayer2} toggleVisibility={toggleVisibility2} isVisible={isVisible2}  
               />
           </div>
           <div>
-            <Card title={title3} img={img3} video={video3} techUsed={techUsed3} GitHub={GitHub3}
+            <Card title={title3} img={img3} video={video3} techUsed={techUsed3} GitHub={GitHub3} Demo={demo3}
                 toggleVideo={toggleVideo3} videoPlayer={videoPlayer3} toggleVisibility={toggleVisibility3} isVisible={isVisible3}  
               />
           </div>

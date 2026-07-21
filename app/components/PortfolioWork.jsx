@@ -1,18 +1,13 @@
 // Environment
 import React, {useState} from "react";
-import LearnMore from "./ShowMore";
-import Image from 'next/image';
 
 
-import { useEffect, useRef } from 'react';
-import gsap from 'gsap';
-import ScrollTrigger from 'gsap/ScrollTrigger';
+
 
 
 // Components
 
   
-import arrow from "../assets/play-solid.svg"
 import { Card } from "./Card";
   
   
@@ -22,7 +17,49 @@ import { Card } from "./Card";
 const PortfolioWork = () => {
 
 
-  // Portfolio Box 1 
+  // Portfolio Box 19 
+  const [videoPlayer19, setVideoPlayer19] = useState(false);
+  const toggleVideo19 = () => {
+    setVideoPlayer19(!videoPlayer19)
+  }
+  // Button
+  const [isVisible19, setIsVisible19] = useState(false);
+  const toggleVisibility19 = () => {
+    setIsVisible19(!isVisible19);
+  };
+    // Portfolio 19
+  const title19="GuildBank Windows App"
+  const img19 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/guildbank%20app%20pic.png"
+  const video19 = "https://www.youtube.com/watch?v=9IMwRIei-Xc"
+  const techUsed19= "Electron Vite Node.js Tailwind"
+  const accomplishements19="First Windows Electron App"
+  const repo19="https://github.com/PrivatePepega/GuildBank-App"
+  const demo19="https://github.com/PrivatePepega/GuildBank-App"
+
+
+  // Portfolio Box 18 
+  const [videoPlayer18, setVideoPlayer18] = useState(false);
+  const toggleVideo18 = () => {
+    setVideoPlayer18(!videoPlayer18)
+  }
+  // Button
+  const [isVisible18, setIsVisible18] = useState(false);
+  const toggleVisibility18 = () => {
+    setIsVisible18(!isVisible18);
+  };
+    // Portfolio 18
+  const title18="Vanilla-Plus DAPP"
+  const img18 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/vanilla-plus%20pic.png"
+  const video18 = "https://www.youtube.com/watch?v=9IMwRIei-Xc"
+  const techUsed18= "Next.js, Solidity, Typescript, Tailwind"
+  const accomplishements18="My second DAPP"
+  const repo18="https://github.com/PrivatePepega/Vanilla-Plus"
+  const demo18="www.vanilla-plus.com"
+
+
+
+
+  // Portfolio Box 17 
   const [videoPlayer17, setVideoPlayer17] = useState(false);
   const toggleVideo17 = () => {
     setVideoPlayer17(!videoPlayer17)
@@ -33,13 +70,13 @@ const PortfolioWork = () => {
     setIsVisible17(!isVisible17);
   };
     // Portfolio 17
-  const title17="Dog chill Dog world"
-  const img17 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/Tindog.png"
-  const video17 = "https://www.youtube.com/embed/xQx6QH6_z9M"
-  const techUsed17= "HTML, CSS, JavaScript"
-  const accomplishements17="My first website built in Vanilla"
-  const repo17="https://github.com/FernandoJCastellanos/Tindog"
-  const demo17="https://fernandojcastellanos.github.io/Tindog/"
+  const title17="GuildBank DAPP"
+  const img17 = "https://raw.githubusercontent.com/FernandoJCastellanos/Personal-Website/refs/heads/master/public/website%20imgs/guildbank%20pic.png"
+  const video17 = "https://www.youtube.com/watch?v=9IMwRIei-Xc"
+  const techUsed17= "Next.js, Solidity, Typescript, Tailwind"
+  const accomplishements17="My first DAPP"
+  const repo17="https://github.com/PrivatePepega/GuildBank"
+  const demo17="www.guildbank.biz"
 
 
 
@@ -379,7 +416,6 @@ const demo1="https://fernandojcastellanos.github.io/Tindog/"
 
 
 
-const elementsRef = useRef([]);
 
 
 
@@ -391,6 +427,21 @@ const elementsRef = useRef([]);
           </p>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-12 mx-12">
+          <div class="">
+            <Card title={title19} img={img19} video={video19} accomplishments={accomplishements19} techUsed={techUsed19} Repo={repo19} Demo={demo19}
+              toggleVideo={toggleVideo19} videoPlayer={videoPlayer19} toggleVisibility={toggleVisibility19} isVisible={isVisible19}  
+            />
+          </div>
+          <div class="">
+            <Card title={title18} img={img18} video={video18} accomplishments={accomplishements18} techUsed={techUsed18} Repo={repo18} Demo={demo18}
+              toggleVideo={toggleVideo18} videoPlayer={videoPlayer18} toggleVisibility={toggleVisibility18} isVisible={isVisible18}  
+            />
+          </div>
+          <div class="">
+            <Card title={title17} img={img17} video={video17} accomplishments={accomplishements17} techUsed={techUsed17} Repo={repo17} Demo={demo17}
+              toggleVideo={toggleVideo17} videoPlayer={videoPlayer17} toggleVisibility={toggleVisibility17} isVisible={isVisible17}  
+            />
+          </div>
           <div class="">
             <Card title={title16} img={img16} video={video16} accomplishments={accomplishements16} techUsed={techUsed16} Repo={repo16} 
               toggleVideo={toggleVideo16} videoPlayer={videoPlayer16} toggleVisibility={toggleVisibility16} isVisible={isVisible16}  
