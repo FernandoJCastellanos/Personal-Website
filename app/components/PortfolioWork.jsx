@@ -423,7 +423,7 @@ const demo1="https://fernandojcastellanos.github.io/Tindog/"
     <div id="Portfolio" className="w-[100%] m-12">
         <div >
           <p className= "text-center mb-12 text-xl">
-            Portfolio Chronological
+            Portfolio
           </p>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-12 mx-12">

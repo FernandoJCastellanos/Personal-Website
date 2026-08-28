@@ -45,16 +45,13 @@ const BlockDeveloper = () => {
             NextJS
           </li>
           <li>
-            Sass
-          </li>
-          <li>
             Typescript
           </li>
           <li>
             Tailwind
           </li>
           <li>
-            Bootstrap
+            Express
           </li>
           <li>
             Wordpress
@@ -66,22 +63,13 @@ const BlockDeveloper = () => {
             MongoDB
           </li>
           <li>
-            AWS Amplify
-          </li>
-          <li>
-            Redux
-          </li>
-          <li>
-            APIs
+            Prisma
           </li>
           <li>
             Git
           </li>
           <li>
             Github
-          </li>
-          <li>
-            Lottie
           </li>
         </ul>
       </div>
